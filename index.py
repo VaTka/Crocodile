@@ -55,7 +55,7 @@ words = [
     "forest", 
     "plane", 
     "hat", 
-    "trolleybus"
+    "trolleybus",
 ]
 
 # Storing game state
